@@ -1,4 +1,4 @@
-<!DOCTYPE html >
+
 <html lang="en">
 <head>
 	
@@ -36,16 +36,14 @@
 	console.log("当前使用设备为：" + dev);
 </script>
 
-<header>
+</head>
+<body>
 	<nav aria-label="breadcrumb">
 	    <ol class="breadcrumb">
 	    	<li class="breadcrumb-item"><a href="http://www.dwultrasound.com/">Home</a></li>
 	    	<li class="breadcrumb-item"><a href="https://sites.google.com/s/1sYeO7-vzHZIROgHThUOQisH79bmgITHz/p/1aTxHYSKR8-uECOIm3pl73ErCZlV8U-yy/edit">Instruction Videos</a></li>
 	    	<li class="breadcrumb-item active" aria-current="page">DW-350 Instruction Videos<li>
-	    	
-	    </ol> 
-
-	</nav>
+	
 	
 		
 		<div class="alert alert-primary" role ="alert">
@@ -79,19 +77,8 @@
 
 
 
-</header>
 
 
-
-
-
-
-
-
-
-	
-</head>
-<body>
 
 </body>
-</html>
+
