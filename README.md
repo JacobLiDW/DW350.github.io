@@ -38,8 +38,7 @@
 
 </head>
 <body>
-       <script async src="https://cse.google.com/cse.js?cx=009252674971543757257:zlpbxncniat"></script>
-<div class="gcse-search"></div>
+     
 	<nav aria-label="breadcrumb">
 	    <ol class="breadcrumb">
 	    	<li class="breadcrumb-item"><a href="http://www.dwultrasound.com/">Home</a></li>
